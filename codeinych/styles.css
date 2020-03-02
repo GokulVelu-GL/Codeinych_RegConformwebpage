@@ -1,0 +1,19 @@
+body{
+	background-color:#2F4F4F;
+}
+h1{
+	text-align: center;
+
+}
+.detail-table{
+	margin-left: 400px;
+    margin-top: 40px;
+}
+.search{
+	margin-left: 550px;
+
+}
+.divform{
+	margin-left: 550px;
+	margin-top: 50px;
+}
